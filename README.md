@@ -43,8 +43,6 @@ source .venv/bin/activate
 
 You should now see `(.venv)` at the beginning of your terminal prompt.
 
----
-
 ### 3. Install Required Packages
 
 Once inside the virtual environment, install the required dependencies:
@@ -52,8 +50,6 @@ Once inside the virtual environment, install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ### 4. Run the FastAPI Server
 
